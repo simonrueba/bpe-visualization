@@ -46,7 +46,6 @@ export default function Footer() {
 
         <div className="mt-6 pt-4 border-t border-[#164430] text-center text-xs text-gray-400">
           <p>© {new Date().getFullYear()} | Created with Next.js and Tailwind CSS</p>
-          <p className="mt-1">Replace the placeholder links with your actual social media profiles and website URL</p>
         </div>
       </div>
     </footer>
